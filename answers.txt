@@ -1,0 +1,3 @@
+2) What is a remote repository?
+
+It is a location from which contributors can download, submit edits, and cooperate on code with each other.
