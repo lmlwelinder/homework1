@@ -5,3 +5,7 @@ at the end of the current branch,
 
 A rebase will change the version on which the current branch is based on. It will take the changes in the current branch and
 reapply them on top of the head of the base branch.
+
+2) What is a remote repository?
+
+It is a location from which contributors can download, submit edits, and cooperate on code with each other.
